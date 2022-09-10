@@ -1,4 +1,4 @@
-# simulador-de-Envio-de-Emails
+# Simulador de Envíos de e-mails
 ## Formulario Envio de Emails 
 ### JavaScript
 
